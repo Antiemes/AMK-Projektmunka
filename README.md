@@ -56,7 +56,7 @@ A 4. konzultáción az elkészült munkákat mutatják be a csapatok.
 
 ### Írásbeli beszámoló
 
-Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/09/Szakdolgozat_sablon_2024.docx) kell elkészíteni. Minimális terjedelme 20 oldal (Projektmunka 1), illetve 25 oldal (Projektmunka 2). A beadási határidő december 3-a (utolsó előtti oktatási hét csütörtök).
+Az írásbeli beszámolót a [szakdolgozat sablonban](https://amk.uni-obuda.hu/wp-content/uploads/2024/09/Szakdolgozat_sablon_2024.docx) kell elkészíteni. Minimális terjedelme 25 oldal. A beadási határidő december 3-a (utolsó előtti oktatási hét csütörtök).
 
 ## Témák
 
