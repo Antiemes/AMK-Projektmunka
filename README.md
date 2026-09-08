@@ -39,7 +39,7 @@ Ezeket közösen, személyesen tartjuk. A konzultációk helye: C211, ideje 8:00
 A konzultációk időpontja:
   * 1. konzultáció: **Szeptember 10. 8:00-9:45** (1. hét)
   * 2. konzultáció: **Szeptember 24. 8:00:9:45** (3. hét)
-  * 3. konzultáció: **Október 29. 8:00-9:45** (8 hét)
+  * 3. konzultáció: **Október 29. 8:00-9:45** (8. hét)
   * 4. konzultáció: **November 26 8:00-9:45** (12. hét)
 
 Az 1. konzultációt főképp az általános tudnivalók ismertetésével és a csapatbeosztással fogjuk tölteni.
